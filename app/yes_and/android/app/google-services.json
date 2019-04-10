@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "622992669683",
+    "firebase_url": "https://yes-and-improv.firebaseio.com",
+    "project_id": "yes-and-improv",
+    "storage_bucket": "yes-and-improv.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:622992669683:android:bfc4f8da8ecd05f1",
+        "android_client_info": {
+          "package_name": "me.puffinlabs.yesand"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRAAbu1bfPEnhO_I6nN5lattUoWPTqME0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "622992669683-b5aq7k7ka53jtq4hu0cr4r2ivgkncojh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "622992669683-sen42bhqaue7mchif2re47vtqgjrf255.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "me.puffinlabs.yesand"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
